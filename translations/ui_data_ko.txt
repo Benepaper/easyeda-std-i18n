@@ -1,4 +1,4 @@
-# 한국인 (Korean)
+# 한국어 (Korean)
 
 # Menu
 User = 사용자
