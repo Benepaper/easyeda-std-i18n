@@ -1,4 +1,4 @@
-# 한국인 (Korean)
+# 한국어 (Korean)
 
 # Menu
 User = 사용자
@@ -68,8 +68,8 @@ Distribute Left Edges Equidistantly = 왼쪽 등간격 맞춤
 Distribute Top Edges Equidistantly = 위쪽 등간격 맞춤
 Align Grid = 그리드 정렬
 Rotate = 회전
-Rotate Left = 시계 반대방향 회전
-Rotate Right = 시계 방향 회전
+Rotate Left = 왼쪽으로 회전
+Rotate Right = 오른쪽으로 회전
 Flip Horizontal = 상하 대칭
 Flip Vertical = 죄우 대칭
 Rotate and Flip = 회전 및 대칭
@@ -1014,7 +1014,7 @@ Unroute = 언라우팅
 Track Length = 트랙 길이
 Via/Hole Outer Size = 비아홀/홀 외경
 Filter nets = 필터 Nets
-Design Rule Checking = 설제 규칙 확인 중
+Design Rule Checking = 설계 규칙 확인 중
 Board Outline = 보드 윤곽선
 Plane Zone = 평탄 영역
 [drcRule]
@@ -1661,17 +1661,17 @@ The schematic is showing errors, please check the simulation report carefully! =
 Simulation too long, maybe your schematic is too complex. = 분석 시간이 너무 깁니다. 당신의 회로는 너무 복잡할 수 있습니다.
 Non-simulated file = 먼저 로그인하시기 바랍니다
 This file can only be opened in standard mode. To open it, please switch to standard mode. = 이 파일은 표준 모드에서만 열 수 있습니다. 열려면 표준 모드로 전환하십시오.
-Load your preferences success! = 선호하는 성공 사례 로드
-Save your preferences success! = 선호하는 성공 사례로 저장
+Load your preferences success! = 기본 설정 불러오기 성공!
+Save your preferences success! = 기본 설정 저장 성공!
 Update subckt ok! = 서브 회로 업데이트 OK
 Clone your file = 파일 복제
 Please type a new file name = 새 파일 이름 입력
-Create file failure! = ファイルの作成に失敗
-Schematics and PCBs can't be imported under My Libs folder, please choose a different folder = 회로도 및 PCB를 "내 라이브러리"폴더에서 가져올 수 없습니다. 다른 폴더를 선택하십시오.
-Libraries to be imported under My Libs folder = "내 라이러리"폴더에서 가져올 라이브러리
+Create file failure! = 파일 생성 실패!
+Schematics and PCBs can't be imported under My Libs folder, please choose a different folder = 회로도 및 PCB를 "내 라이브러리" 폴더에서 가져올 수 없습니다. 다른 폴더를 선택하십시오.
+Libraries to be imported under My Libs folder = "내 라이브러리" 폴더에서 가져올 라이브러리
 Please choose only the libraries needed = 필요한 라이브러리만 선택하세요.
 Maximum import is 200 libs at one time! = 한 번에 200개의 라이브러리를 최대로 가져올 수 있습니다!
-You libraries will be found under the My Libs folder = 라이브러리를 "내 라이브러리"폴더에서 찾을 수 있습니다.
+You libraries will be found under the My Libs folder = 라이브러리를 "내 라이브러리" 폴더에서 찾을 수 있습니다.
 Add to Library = 라이브러리에 추가
 No items have been checked! = 확인된 항목이 없습니다!
 Nothing was found, please create it for yourself = 검색된 항목이 없습니다. 직접 만드십시오.
@@ -2372,7 +2372,7 @@ Auto Router is running... = 오토 라우터 실행 중...
 Common Library = 공통 라이브러리
 Basic = 기본
 Extend = 확장
-Design Manager = 설제 관리자
+Design Manager = 설계 관리자
 Library = 라이브러리
 Spice Library = Spice 라이브러리
 Shared = 공유됨
@@ -2476,7 +2476,7 @@ Expand All = 모두 펼치기
 Collapse = 접기
 Collapse All = 모두 접기
 Your file hasn't been saved, do you want to save it? = 파일이 저장되지 않았습니다. 저장하시겠습니까?
-Don't Save = 저장하지 마시오.
+Don't Save = 저장하지 않음
 Library Owner: = 라이브러리 소유자:
 verifyPkg.Value = verifyPkg.Value
 State = 상태
