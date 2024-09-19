@@ -1,4 +1,4 @@
-# 한국인 (Korean)
+# 한국어 (Korean)
 
 # Menu
 User = 사용자
@@ -68,8 +68,8 @@ Distribute Left Edges Equidistantly = 왼쪽 등간격 맞춤
 Distribute Top Edges Equidistantly = 위쪽 등간격 맞춤
 Align Grid = 그리드 정렬
 Rotate = 회전
-Rotate Left = 시계 반대방향 회전
-Rotate Right = 시계 방향 회전
+Rotate Left = 왼쪽으로 회전
+Rotate Right = 오른쪽으로 회전
 Flip Horizontal = 상하 대칭
 Flip Vertical = 죄우 대칭
 Rotate and Flip = 회전 및 대칭
@@ -1014,7 +1014,7 @@ Unroute = 언라우팅
 Track Length = 트랙 길이
 Via/Hole Outer Size = 비아홀/홀 외경
 Filter nets = 필터 Nets
-Design Rule Checking = 설제 규칙 확인 중
+Design Rule Checking = 설계 규칙 확인 중
 Board Outline = 보드 윤곽선
 Plane Zone = 평탄 영역
 [drcRule]
@@ -2372,7 +2372,7 @@ Auto Router is running... = 오토 라우터 실행 중...
 Common Library = 공통 라이브러리
 Basic = 기본
 Extend = 확장
-Design Manager = 설제 관리자
+Design Manager = 설계 관리자
 Library = 라이브러리
 Spice Library = Spice 라이브러리
 Shared = 공유됨
@@ -2447,7 +2447,7 @@ Append = 추가
 Open as new project = 새 프로젝트로 열기
 Tip: Press {0}SPACE{1} or {2}R{3} to rotate the placing object or selected object. = 팁: {0}SPACE{1} 또는 {2}R{3} 키를 눌러 배치 객체 또는 선택한 객체를 회전합니다.
 Hotkeys Setting = 단축키 설정
-I know. Don't show this again. = 알아요. 이것을 다시 표시하지 마십시오.
+I know. Don't show this again. = 알겠습니다. 이것을 다시 표시하지 마십시오.
 Manufacturer Part Number can not be less than 2 characters. = 제조업체 부품 번호는 2자 이상이어야 합니다.
 This prefix was changed to non-subpart format. = 이 접두어는 하위 파트가 아닌 형식으로 변경되었습니다.
 Save as New Project = 내 프로젝트로 저장
