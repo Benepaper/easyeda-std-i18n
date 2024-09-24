@@ -2206,8 +2206,8 @@ User Scripts = 사용자 스크립트
 You can right click on the tree nodes. = 트리 노드를 마우스 오른쪽 버튼으로 클릭할 수 있습니다.
 
 #PCB photoView toolbar
-Top Side = 폄면도
-Bottom Side = 배면도
+Top Side = 위쪽
+Bottom Side = 아래쪽
 With Silk Layer = 실크 레이어로
 No Silk Layer = 실크 레이어 없음
 Photo View = 포토 보기
@@ -2791,7 +2791,7 @@ Current Version = 현재 버전
 Latest Version = 최신 버전
 Please select a different version to switch; If you want to edit different version in the same time, please open them in different browsers. = 전환할 다른 버전을 선택하십시오. 다른 버전을 동시에 편집하려면 다른 브라우저에서 여십시오.
 3D Model = 3D 모델
-Board Side = 보드 크기
+Board Side = 보드 측면
 Display = 디스플레이
 Copper = 구리도금
 Create New Version = 새 버전 생성
