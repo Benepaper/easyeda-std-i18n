@@ -711,7 +711,7 @@ Name = 이름
 name = 이름
 Number = 숫자
 Spice Pin Order = Spice 핀 순서
-Display Number = 표시 숫자
+Display Number = 숫자 표시
 Clock = 클럭
 Show = 보이기
 Electric = 전기
@@ -1497,7 +1497,7 @@ Layers = 레이어
 
 #Dialog Preferences
 Language = 언어
-Display Name = 표시 이름
+Display Name = 이름 표시
 HotKey Sync = 단축기 동기화
 My Theme Sync = 내 테마 동기화
 Document Recovery Setting = 문서 복원 설정
