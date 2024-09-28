@@ -937,7 +937,7 @@ Add a new parameter = 새로운 파라메타 추가
 Key = 키
 Value.new_para = Value.new_para
 In BOM = 부품표 내
-Add into BOM = 부품표 내로 추가
+Add into BOM = 부품표로 추가
 Invalid key = 잘못된 키
 This field is required. = 이 필드는 필수입니다.
 
